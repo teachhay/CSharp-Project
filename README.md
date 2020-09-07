@@ -23,15 +23,15 @@ Its main objective is to provide users with the possibility to test their knowle
 The interface must provide the following:
   - When the app starts, the user enters her username and password. If the user is not registered, she must go through the registration process.
   - Things to be specified:
-    • Username (one cannot register an already existing username);
-    • Password;
-    • Date of birth.
+    * Username (one cannot register an already existing username);
+    * Password;
+    * Date of birth.
   - After logging in, the user can:
-    • Start a new quiz;
-    • View the results of her previous quizzes;
-    • View top 20 for a specific quiz;
-    • Change settings. Edit password and date of birth;
-    • Log out.
+    * Start a new quiz;
+    * View the results of her previous quizzes;
+    * View top 20 for a specific quiz;
+    * Change settings. Edit password and date of birth;
+    * Log out.
   - To start a new quiz, the user must select the knowledge section, for instance, History, Geography, Biology, etc. Also, provide a mixed quiz, where questions are randomly selected from different quizzes.
   - Each quiz consists of 20 questions. Each question may have one or multiple correct answers. If a question has multiple correct answers, and the user selects not all of    them, the answer is still wrong.
   - After the quiz ends, the user sees the number of correct answers and her place in the table of results among all players. 
