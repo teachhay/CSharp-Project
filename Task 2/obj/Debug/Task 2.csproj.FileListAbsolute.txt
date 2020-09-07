@@ -1,0 +1,22 @@
+C:\Users\teach\source\repos\C#\Exam\Task 2\bin\Debug\Task 2.exe.config
+C:\Users\teach\source\repos\C#\Exam\Task 2\bin\Debug\Task 2.exe
+C:\Users\teach\source\repos\C#\Exam\Task 2\bin\Debug\Task 2.pdb
+C:\Users\teach\source\repos\C#\Exam\Task 2\obj\Debug\Task 2.csprojAssemblyReference.cache
+C:\Users\teach\source\repos\C#\Exam\Task 2\obj\Debug\Task 2.exe
+C:\Users\teach\source\repos\C#\Exam\Task 2\obj\Debug\Task 2.pdb
+C:\Users\teach\source\repos\C#\Exam\Task 2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\teach\source\repos\C#\Exam\Task 2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\teach\source\repos\C#\Exam\Task 2\obj\Debug\Task 2.csproj.CopyComplete
+C:\Users\teach\source\repos\C#\Exam\Task 2\bin\Debug\FileJson.dll
+C:\Users\teach\source\repos\C#\Exam\Task 2\bin\Debug\FileJson.pdb
+C:\Users\teach\source\repos\Exam\Task 2\bin\Debug\Task 2.exe.config
+C:\Users\teach\source\repos\Exam\Task 2\bin\Debug\Task 2.exe
+C:\Users\teach\source\repos\Exam\Task 2\bin\Debug\Task 2.pdb
+C:\Users\teach\source\repos\Exam\Task 2\bin\Debug\FileJson.dll
+C:\Users\teach\source\repos\Exam\Task 2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\teach\source\repos\Exam\Task 2\bin\Debug\FileJson.pdb
+C:\Users\teach\source\repos\Exam\Task 2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\teach\source\repos\Exam\Task 2\obj\Debug\Task 2.csprojAssemblyReference.cache
+C:\Users\teach\source\repos\Exam\Task 2\obj\Debug\Task 2.csproj.CopyComplete
+C:\Users\teach\source\repos\Exam\Task 2\obj\Debug\Task 2.exe
+C:\Users\teach\source\repos\Exam\Task 2\obj\Debug\Task 2.pdb

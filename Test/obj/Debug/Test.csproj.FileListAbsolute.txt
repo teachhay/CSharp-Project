@@ -1,0 +1,12 @@
+C:\Users\teach\source\repos\C#\Exam\Test\bin\Debug\Test.exe.config
+C:\Users\teach\source\repos\C#\Exam\Test\bin\Debug\Test.exe
+C:\Users\teach\source\repos\C#\Exam\Test\bin\Debug\Test.pdb
+C:\Users\teach\source\repos\C#\Exam\Test\obj\Debug\Test.exe
+C:\Users\teach\source\repos\C#\Exam\Test\obj\Debug\Test.pdb
+C:\Users\teach\source\repos\C#\Exam\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\teach\source\repos\C#\Exam\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\teach\source\repos\C#\Exam\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\teach\source\repos\C#\Exam\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\teach\source\repos\C#\Exam\Test\bin\Debug\FluentAssertions.dll
+C:\Users\teach\source\repos\C#\Exam\Test\bin\Debug\FluentAssertions.pdb
+C:\Users\teach\source\repos\C#\Exam\Test\bin\Debug\FluentAssertions.xml

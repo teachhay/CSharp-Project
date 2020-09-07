@@ -1,0 +1,34 @@
+C:\Users\teach\source\repos\C#\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\teach\source\repos\C#\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\teach\source\repos\C#\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\teach\source\repos\C#\Exam\Exam\obj\Debug\Task 1.csprojAssemblyReference.cache
+C:\Users\teach\source\repos\C#\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\teach\source\repos\C#\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\teach\source\repos\C#\Exam\Exam\bin\Debug\Newtonsoft.Json.dll
+C:\Users\teach\source\repos\C#\Exam\Exam\bin\Debug\Newtonsoft.Json.xml
+C:\Users\teach\source\repos\C#\Exam\Exam\obj\Debug\Task 1.csproj.CopyComplete
+C:\Users\teach\source\repos\C#\Exam\Exam\bin\Debug\FileJson.dll
+C:\Users\teach\source\repos\C#\Exam\Exam\bin\Debug\FileJson.pdb
+C:\Users\teach\source\repos\Exam\Exam\obj\Debug\Task 1.csprojAssemblyReference.cache
+C:\Users\teach\source\repos\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\teach\source\repos\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\teach\source\repos\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\teach\source\repos\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\teach\source\repos\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\teach\source\repos\Exam\Exam\bin\Debug\FileJson.dll
+C:\Users\teach\source\repos\Exam\Exam\bin\Debug\Newtonsoft.Json.dll
+C:\Users\teach\source\repos\Exam\Exam\bin\Debug\FileJson.pdb
+C:\Users\teach\source\repos\Exam\Exam\bin\Debug\Newtonsoft.Json.xml
+C:\Users\teach\source\repos\Exam\Exam\obj\Debug\Task 1.csproj.CopyComplete
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\Exam\bin\Debug\Exam.exe.config
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\Exam\bin\Debug\Exam.exe
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\Exam\bin\Debug\Exam.pdb
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\Exam\bin\Debug\FileJson.dll
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\Exam\bin\Debug\Newtonsoft.Json.dll
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\Exam\bin\Debug\FileJson.pdb
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\Exam\bin\Debug\Newtonsoft.Json.xml
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\Exam\obj\Debug\Task 1.csprojAssemblyReference.cache
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\Exam\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\Exam\obj\Debug\Task 1.csproj.CopyComplete
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\Exam\obj\Debug\Exam.exe
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\Exam\obj\Debug\Exam.pdb

@@ -1,0 +1,5 @@
+C:\Users\teach\source\repos\C#\Exam\Obj2File\bin\Debug\Obj2File.exe.config
+C:\Users\teach\source\repos\C#\Exam\Obj2File\bin\Debug\Obj2File.exe
+C:\Users\teach\source\repos\C#\Exam\Obj2File\bin\Debug\Obj2File.pdb
+C:\Users\teach\source\repos\C#\Exam\Obj2File\obj\Debug\Obj2File.exe
+C:\Users\teach\source\repos\C#\Exam\Obj2File\obj\Debug\Obj2File.pdb

@@ -1,0 +1,8 @@
+C:\Users\teach\source\repos\C#\Exam\WriteFile\bin\Debug\WriteFile.dll
+C:\Users\teach\source\repos\C#\Exam\WriteFile\bin\Debug\WriteFile.pdb
+C:\Users\teach\source\repos\C#\Exam\WriteFile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\teach\source\repos\C#\Exam\WriteFile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\teach\source\repos\C#\Exam\WriteFile\obj\Debug\WriteFile.csprojAssemblyReference.cache
+C:\Users\teach\source\repos\C#\Exam\WriteFile\obj\Debug\WriteFile.csproj.CopyComplete
+C:\Users\teach\source\repos\C#\Exam\WriteFile\obj\Debug\WriteFile.dll
+C:\Users\teach\source\repos\C#\Exam\WriteFile\obj\Debug\WriteFile.pdb

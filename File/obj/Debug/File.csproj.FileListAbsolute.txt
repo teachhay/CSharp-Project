@@ -1,0 +1,6 @@
+C:\Users\teach\source\repos\C#\Exam\File\bin\Debug\File.exe.config
+C:\Users\teach\source\repos\C#\Exam\File\bin\Debug\File.exe
+C:\Users\teach\source\repos\C#\Exam\File\bin\Debug\File.pdb
+C:\Users\teach\source\repos\C#\Exam\File\obj\Debug\File.csprojAssemblyReference.cache
+C:\Users\teach\source\repos\C#\Exam\File\obj\Debug\File.exe
+C:\Users\teach\source\repos\C#\Exam\File\obj\Debug\File.pdb

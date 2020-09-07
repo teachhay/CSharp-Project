@@ -1,0 +1,25 @@
+C:\Users\teach\source\repos\C#\Exam\FileJson\bin\Debug\FileJson.dll
+C:\Users\teach\source\repos\C#\Exam\FileJson\bin\Debug\FileJson.pdb
+C:\Users\teach\source\repos\C#\Exam\FileJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\teach\source\repos\C#\Exam\FileJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\teach\source\repos\C#\Exam\FileJson\obj\Debug\FileJson.csprojAssemblyReference.cache
+C:\Users\teach\source\repos\C#\Exam\FileJson\obj\Debug\FileJson.csproj.CopyComplete
+C:\Users\teach\source\repos\C#\Exam\FileJson\obj\Debug\FileJson.dll
+C:\Users\teach\source\repos\C#\Exam\FileJson\obj\Debug\FileJson.pdb
+C:\Users\teach\source\repos\Exam\FileJson\bin\Debug\FileJson.dll
+C:\Users\teach\source\repos\Exam\FileJson\bin\Debug\FileJson.pdb
+C:\Users\teach\source\repos\Exam\FileJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\teach\source\repos\Exam\FileJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\teach\source\repos\Exam\FileJson\obj\Debug\FileJson.csprojAssemblyReference.cache
+C:\Users\teach\source\repos\Exam\FileJson\obj\Debug\FileJson.csproj.CopyComplete
+C:\Users\teach\source\repos\Exam\FileJson\obj\Debug\FileJson.dll
+C:\Users\teach\source\repos\Exam\FileJson\obj\Debug\FileJson.pdb
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\FileJson\bin\Debug\FileJson.dll
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\FileJson\bin\Debug\FileJson.pdb
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\FileJson\bin\Debug\Newtonsoft.Json.dll
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\FileJson\bin\Debug\Newtonsoft.Json.xml
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\FileJson\obj\Debug\FileJson.csprojAssemblyReference.cache
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\FileJson\obj\Debug\FileJson.csproj.CoreCompileInputs.cache
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\FileJson\obj\Debug\FileJson.csproj.CopyComplete
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\FileJson\obj\Debug\FileJson.dll
+E:\School\IT Step Academy\Software Development\Programming\C#\Programming Files\C#\Exam\FileJson\obj\Debug\FileJson.pdb
