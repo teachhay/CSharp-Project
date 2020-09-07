@@ -1,8 +1,8 @@
-C# School Project
+# C# School Project
 
-Task 1
+## Task 1
 
-Create an application Dictionaries.
+###### Create an application Dictionaries.
 The main purpose of the project is to store dictionaries in many languages and allow the user to find the translation of a word or a phrase.
 
 The interface must provide the following:
@@ -15,9 +15,9 @@ The interface must provide the following:
   ■■ One can export a word and its translations to a separate result file.
   ■■ When the program starts, display the menu to work with the program. If a selected menu item opens a submenu, provide returning to the previous menu.
 
-Task 2
+## Task 2
 
-Create an application Quiz.
+###### Create an application Quiz.
 Its main objective is to provide users with the possibility to test their knowledge in different areas.
 
 The interface must provide the following:
