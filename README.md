@@ -1,4 +1,4 @@
-# C# School Project
+# C# Project
 
 ## Task 1
 
